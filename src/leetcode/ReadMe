@@ -4,6 +4,8 @@
 
 1. Two Sum
 22. Generate Parentheses
+33. Search in Rotated Sorted Array
+54. Spiral Matrix
 
 138. Copy List with Random Pointer
 141. Linked List Cycle
@@ -14,6 +16,7 @@
 215. Kth Largest Element in an Array
 268. Missing Number
 
+322. Coin Change
 344. Reverse String
 
 412. Fizz Buzz
